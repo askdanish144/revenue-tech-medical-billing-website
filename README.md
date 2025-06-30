@@ -1,5 +1,8 @@
 # 🌐 Revenue Tech Solutions LLC – Medical Billing & RCM Website
 
+![Status](https://img.shields.io/badge/status-live-brightgreen)
+![Tech](https://img.shields.io/badge/tech-HTML%2FCSS%2FJS-blue)
+
 A clean, professional, and fully responsive website built for **Revenue Tech Solutions**, specializing in **medical billing**, **credentialing**, **denial management**, and **RCM services** for healthcare providers.
 
 🔗 **Live Site**: https://www.revenuetechsolutions.com/
@@ -77,4 +80,4 @@ GitHub: https://github.com/askdanish144
 ## 📬 Want a website like this?
 
 I'm available to build responsive, business-focused websites tailored to any industry, whether you're a startup, local business, or growing brand.
-➤ Mail me at `askdanish144@gmail.com` to start a conversation.
+➤ Email me at `askdanish144@gmail.com` to start a conversation.
