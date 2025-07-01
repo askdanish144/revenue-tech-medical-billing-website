@@ -71,7 +71,7 @@ You can adapt the structure and idea for your own business by:
 
 ## ✨ Author
 
-Crafted with attention to detail by **Danish – Full Stack Developer & Graphic Designer**
+Crafted with attention to detail by **Danish Ali – Full Stack Developer & Graphic Designer**
 
 GitHub: https://github.com/askdanish144
 
